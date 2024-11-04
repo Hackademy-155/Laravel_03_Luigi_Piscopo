@@ -1,0 +1,14 @@
+.costum{
+    background-color: grey;
+}
+
+
+.headerCostum{
+    height: 100vh;
+    
+    background-image: url(https://img.goodfon.com/wallpaper/big/e/60/grusha-logotip-minimalizm.webp);
+}
+h1{
+    font-size: 10rem;
+    color: blue;
+}
